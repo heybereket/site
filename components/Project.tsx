@@ -15,7 +15,9 @@ export const Project = (props: ProjectProps) => {
       {props.img ? (
         <img src={props.img} alt="Project Image" className="w-16 h-16" />
       ) : (
-        <FaGithub className="w-16 h-16 text-white" />
+        <div>
+          <FaGithub className="w-16 h-16 text-white" />
+        </div>
       )}
       <div className="ml-6">
         {props.sub && <p className="uppercase text-lightGray">{props.sub}</p>}

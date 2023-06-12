@@ -19,7 +19,7 @@ export default function Home() {
 
       <div className="flex flex-col md:grid md:grid-cols-3 mt-8 gap-y-10">
         <Project
-          img="https://assets.stickpng.com/images/58482ec0cef1014c0b5e4a70.png"
+          img="https://cdn.iconscout.com/icon/free/png-256/free-shopify-226579.png"
           name="Shopify"
           desc="The global commerce platform"
           sub="Software Engineer Intern"
@@ -27,8 +27,8 @@ export default function Home() {
         />
         <Project
           img="https://frc6070.ca/6070-logo.png"
-          name="6070: Gryphon Machine"
-          desc="FIRST Robotics Team"
+          name="Gryphon Machine"
+          desc="FIRST Robotics Team (6070)"
           sub="Programming Captain"
           link="https://frc6070.ca"
         />
@@ -79,7 +79,7 @@ export default function Home() {
         />
         <Project
           img="https://imperialb.in/favicon.ico"
-          name="Imperial"
+          name="IMPERIAL"
           desc="Minimal text & code editor for the web"
           sub="Contributor"
           link="https://imperialb.in"

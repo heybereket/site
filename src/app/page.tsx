@@ -77,7 +77,7 @@ export default function Home() {
 
         <b>what ive done:</b>
         <ul>
-          <li>• producthunt maker of the year (runner up) &apos;21</li>
+          <li>• product hunt maker of the year (runner up) &apos;21</li>
           <li>• 100k+ monthly active users across all my apps</li>
           <li>
             • started a community called buildergroop in &apos;21, over 7k+

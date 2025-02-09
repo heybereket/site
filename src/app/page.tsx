@@ -66,7 +66,7 @@ export default function Home() {
 
         <br />
 
-        <b>where i've worked:</b>
+        <b>where i&apos;ve worked:</b>
         <ul>
           <li>• swe intern @ shopify when i was 13 years old</li>
           <li>• founding engineer @ tunnel (neo &apos;23)</li>
@@ -80,8 +80,8 @@ export default function Home() {
           <li>• producthunt maker of the year (runner up) &apos;21</li>
           <li>• 100k+ monthly active users across all my apps</li>
           <li>
-            • started a community called buildergroop in &apos;21, over 7k+ members
-            now
+            • started a community called buildergroop in &apos;21, over 7k+
+            members now
           </li>
           <li>• finalist in nasa space apps hackathon (300k+ students)</li>
           <li>• made a vscode extension with 12k+ installs</li>

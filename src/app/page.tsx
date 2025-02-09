@@ -33,7 +33,7 @@ export default function Home() {
             <a href="https://www.ibo.org/" target="_blank" rel="noreferrer">
               ib
             </a>
-            , but i dropped out to build my first startup
+            , but i dropped out to pursue entrepreneurship
           </li>
           <li>• 26k+ followers on twitter</li>
         </ul>
@@ -86,7 +86,7 @@ export default function Home() {
           <li>• finalist in nasa space apps hackathon (300k+ students)</li>
           <li>• made a vscode extension with 12k+ installs</li>
           <li>• made a figma plugin with 4k+ installs</li>
-          <li>• had 2 startups acquired</li>
+          <li>• had 2 successful startup exits</li>
         </ul>
 
         <br />

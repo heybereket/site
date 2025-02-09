@@ -24,9 +24,8 @@ export default function Home() {
         <ul>
           <li>• {age} yrs old</li>
           <li>• software engineer</li>
-          <li>• currently in toronto, canada 🇨🇦</li>
           <li>• ethopian 🇪🇹, born in kenya 🇰🇪, raised in canada 🇨🇦</li>
-          <li>• moved to canada when i was 4 yrs old 🇨🇦</li>
+          <li>• currently living in toronto, canada (moved here when i was 4 yrs old) 🇨🇦</li>
           <li>• started coding when i was 10 years old 💻</li>
           <li>
             • was in{" "}
@@ -95,13 +94,36 @@ export default function Home() {
         <b>how to reach me:</b>
         <ul>
           <li>
-            • bereket at butler dot ai <i>(i respond to all genuine emails!)</i>
+            • bereket at butler dot ai
           </li>
           <li>
             •{" "}
             <a href="https://x.com/heybereket" target="_blank" rel="noreferrer">
-              x.com/heybereket
+              x
             </a>
+          </li>
+          <li>
+            •{" "}
+            <a
+              href="https://www.linkedin.com/in/bereketsemagn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              linkedin
+            </a>
+          </li>
+          <li>
+            •{" "}
+            <a
+              href="https://github.com/heybereket"
+              target="_blank"
+              rel="noreferrer"
+            >
+              github
+            </a>
+          </li>
+          <li>
+            • discord: <code className="text-xs bg-gray-200 rounded px-2">heybereket</code>
           </li>
         </ul>
       </main>
